@@ -35,9 +35,9 @@ The primary objective of this project was to move beyond basic data visualizatio
 * **DAX** (Business logic & calculations)
 
 ## 🚀 How to Interact with This Project
-1. Download the `Netflix_Financial_Performance.pbix` file from this repository.
-2. Open the file in **Microsoft Power BI Desktop**.
-3. Interact with the regional bar charts to see how the cross-filtering engine dynamically updates the executive KPI cards in real-time.
+1. Download the `NetflixPerformance.pbix` file from this repository.
+3. Open the file in **Microsoft Power BI Desktop**.
+4. Interact with the regional bar charts to see how the cross-filtering engine dynamically updates the executive KPI cards in real-time.
 
 ---
 Here is the screenshot : https://github.com/yashsamsung348/Netflix-Financial-Performance-Dashboard/blob/main/Image.jpeg
