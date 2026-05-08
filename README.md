@@ -40,4 +40,4 @@ The primary objective of this project was to move beyond basic data visualizatio
 3. Interact with the regional bar charts to see how the cross-filtering engine dynamically updates the executive KPI cards in real-time.
 
 ---
-*If you have any questions about the DAX architecture or the ETL pipeline used in this model, feel free to reach out!*
+Here is the screenshot : https://github.com/yashsamsung348/Netflix-Financial-Performance-Dashboard/blob/main/Image.jpeg
